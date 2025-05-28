@@ -1,6 +1,6 @@
 appId: 'dangcheong'
-productName: 'dangcheong'
-artifactName: '${productName}-setup-${version}.${ext}'
+productName: '추격자 vs 도망자'
+artifactName: 'dangcheong-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2025 gotiger (original author: © 2018-2024 Daniel Scalzi)'
 
